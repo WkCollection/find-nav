@@ -6,7 +6,7 @@
   "showGithub": true,
   "title": "知识就是力量 - 精选实用导航网站",
   "description": "知识就是力量 - 精选实用导航网站",
-  "keywords": "导航,前端资源,社区站点,设计师,实用工具,学习资源,运营,网络安全,node.js",
+  "keywords": "导航,社区站点,设计师,实用工具,学习资源,运营",
   "theme": "Sim",
   "appTheme": "App",
   "footerContent": "<script>\nvar _hmt = _hmt || [];\n(function() {\n  var hm = document.createElement(\"script\");\n  hm.src = \"https://hm.baidu.com/hm.js?117ac6784b4cb843960ef49d912f7fa9\";\n  var s = document.getElementsByTagName(\"script\")[0]; \n  s.parentNode.insertBefore(hm, s);\n})();\n</script>\n\n<script charset=\"UTF-8\" id=\"LA_COLLECT\" src=\"//sdk.51.la/js-sdk-pro.min.js\"></script>\n<script>LA.init({id: \"JlWBjbOFFcZ1KdIH\",ck: \"JlWBjbOFFcZ1KdIH\"})</script>\n\n\n<div style=\"font-weight: bold;\">共收录${total}个网站</div><div>Copyright  2018-2022 www.prlrr.com , All Rights Reserved</div>",
