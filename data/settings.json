@@ -2,8 +2,8 @@
   "favicon": "https://cdn.jsdelivr.net/gh/xjh22222228/nav@image/logo.png",
   "homeUrl": "https://nav3.cn",
   "language": "zh-CN",
-  "loading": "loading2",
-  "showGithub": false,
+  "loading": "random",
+  "showGithub": true,
   "title": "知识就是力量 - 精选实用导航网站",
   "description": "知识就是力量 - 精选实用导航网站",
   "keywords": "导航,前端资源,社区站点,设计师,实用工具,学习资源,运营,网络安全,node.js",
@@ -38,19 +38,7 @@
   "simThemeAutoplay": true,
   "sideThemeImages": [
     {
-      "src": "https://www.prlrr.com/wallpaper-API/php-api/BingApi.php",
-      "url": "",
-      "width": null,
-      "height": null
-    },
-    {
-      "src": "https://api.ixiaowai.cn/gqapi/gqapi.php",
-      "url": "",
-      "width": null,
-      "height": null
-    },
-    {
-      "src": "https://api.btstu.cn/sjbz/api.php",
+      "src": "https://img.cdn1.vip/i/6a0ae893e2ee6_1779099795.webp",
       "url": "",
       "width": null,
       "height": null
