@@ -2,7 +2,7 @@
   "favicon": "https://cdn.jsdelivr.net/gh/xjh22222228/nav@image/logo.png",
   "homeUrl": "https://nav3.cn",
   "language": "zh-CN",
-  "loading": "null",
+  "loading": "random",
   "showGithub": true,
   "title": "知识就是力量 - 精选实用导航网站",
   "description": "知识就是力量 - 精选实用导航网站",
@@ -15,7 +15,7 @@
   "cnzzStatisticsUrl": "",
   "simThemeImages": [
     {
-      "src": "",
+      "src": "https://img.cdn1.vip/i/6a0aea9f9bec9_1779100319.webp",
       "url": "",
       "width": null,
       "height": null
@@ -26,7 +26,7 @@
   "simThemeAutoplay": true,
   "sideThemeImages": [
     {
-      "src": "",
+      "src": "https://img.cdn1.vip/i/6a0ae893e2ee6_1779099795.webp",
       "url": "",
       "width": null,
       "height": null
