@@ -7,7 +7,7 @@
   "title": "知识就是力量",
   "description": "知识就是力量",
   "keywords": "导航,前端资源,社区站点,设计师,实用工具,学习资源,运营",
-  "theme": "Light",
+  "theme": "Sim",
   "appTheme": "App",
   "footerContent": "<script>\nvar _hmt = _hmt || [];\n(function() {\n  var hm = document.createElement(\"script\");\n  hm.src = \"https://hm.baidu.com/hm.js?117ac6784b4cb843960ef49d912f7fa9\";\n  var s = document.getElementsByTagName(\"script\")[0]; \n  s.parentNode.insertBefore(hm, s);\n})();\n</script>\n\n<script charset=\"UTF-8\" id=\"LA_COLLECT\" src=\"//sdk.51.la/js-sdk-pro.min.js\"></script>\n<script>LA.init({id: \"JlWBjbOFFcZ1KdIH\",ck: \"JlWBjbOFFcZ1KdIH\"})</script>\n\n\n<div style=\"font-weight: bold;\">共收录${total}个网站</div>",
   "iconfontUrl": "//at.alicdn.com/t/font_2522843_wl70o31sy6.js",
